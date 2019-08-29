@@ -1,0 +1,19 @@
+{
+  "name": "js-html",
+  "version": "0.0.1",
+  "description": "Basic HTML+JS Electron seed",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron src/main.js",
+    "test": "echo \"You don't need tests when your right\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "seed"
+  ],
+  "author": "Eduardo Lippmann",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.0.5"
+  }
+}
